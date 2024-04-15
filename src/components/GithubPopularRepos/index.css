@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.heading {
+  font-family: 'Lobster';
+  font-size: 40px;
+}
+.page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  width: 600px;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.repository-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.failure-img {
+  height: 600px;
+}

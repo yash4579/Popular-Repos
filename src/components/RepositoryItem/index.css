@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.avatar {
+  height: 100px;
+}
+.list-item-repo {
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 350px;
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.repo-name {
+  color: #e73959;
+  font-family: 'roboto';
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.star-img {
+  height: 20px;
+}
+
+.star-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100px;
+}

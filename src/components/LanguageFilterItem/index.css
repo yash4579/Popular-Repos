@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.languages {
+  font-family: 'roboto';
+  font-size: 25px;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+  height: 20px;
+}
+
+.border {
+  border: 2px solid #0284c7;
+  border-radius: 10px;
+}
